@@ -18,3 +18,5 @@
   - open hardware manager and open target zedboard
   - program device
   - start gaming!
+# Result
+  ![alt text](https://github.com/wenyee9797/zedboard-snake-game/tree/main/picture/game.JPG)
