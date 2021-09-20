@@ -19,4 +19,4 @@
   - program device
   - start gaming!
 # Result
-  ![alt text](https://github.com/wenyee9797/zedboard-snake-game/tree/main/picture/game.JPG)
+  ![demo](picture/game.JPG)
