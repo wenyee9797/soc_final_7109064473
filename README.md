@@ -1,2 +1,3 @@
-# final_project_soc_7109064473
- 
+# soc final project
+# this project works on zedboard
+# no software(ps side) used, use only pl to run this project
